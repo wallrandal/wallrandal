@@ -4,9 +4,9 @@ I'm a System Analyst with 5 years of experience. As a web developer, I've been w
 
 Here's where you can find more about me:
 
-👔 [Linkedin(pt/en)](https://www.linkedin.com/in/wallacerandal)
-📖 [Portfolio(pt)](https://wallrandal.github.io/portfolio/)
-📝 [Medium(pt)](https://medium.com/@wallace.moura/)
+- 👔 [Linkedin(pt/en)](https://www.linkedin.com/in/wallacerandal)
+- 📖 [Portfolio(pt)](https://wallrandal.github.io/portfolio/)
+- 📝 [Medium(pt)](https://medium.com/@wallace.moura/)
 
 <!--
 **wallrandal/wallrandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
