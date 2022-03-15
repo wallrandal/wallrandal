@@ -7,6 +7,7 @@ Here's where you can find more about me:
 - 👔 [Linkedin(pt/en)](https://www.linkedin.com/in/wallacerandal)
 - 📖 [Portfolio(pt)](https://wallrandal.github.io/portfolio/)
 - 📝 [Medium(pt)](https://medium.com/@wallace.moura/)
+- 🖊️ [RackerRank](https://www.hackerrank.com/wallace_moura)
 
 <!--
 **wallrandal/wallrandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
